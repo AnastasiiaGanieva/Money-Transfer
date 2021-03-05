@@ -1,8 +1,9 @@
-Отчёт о тестировании приложения Money Transfer
+**Отчёт о тестировании приложения Money Transfer**
 
-Краткое описание
+**Краткое описание**
 Было проведено функцинальное тестирование кода функции сложения целочисленных типов данных (int) с выведением результата в консоль
 
-Результаты:
-1.100% fail даже при замене тип на Long
-2.https://github.com/AnastasiiaGanieva/Money-Transfer/issues/1
+**Результаты:**
+
+1. 100% fail даже при замене тип на Long
+2. https://github.com/AnastasiiaGanieva/Money-Transfer/issues/1
