@@ -5,7 +5,7 @@
 
 **Результаты:**
 
-1. 100% fail даже при замене тип на Long
+1. 50%/50% (при замене типа данных,код работает)
 2. https://github.com/AnastasiiaGanieva/Money-Transfer/issues/1
 
 **Рекомендации**
